@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background: #f3f3f3 !important;
+}
+
+p {
+  margin: 2px 0;
+}
+
+fieldset.MuiFormControl-root {
+  margin-bottom: 20px;
+}
+
+*[draggable] {
+  cursor: move !important;
+}
